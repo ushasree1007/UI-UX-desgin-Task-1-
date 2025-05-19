@@ -1,8 +1,6 @@
 # UI-UX-desgin-Task-1-
 
-
-
-      **COMPANY** : CODTECH IT SOLUTIONS 
+**COMPANY** : CODTECH IT SOLUTIONS 
       **NAME** : KATARU USHASREE 
       **INTERN ID** : CT08DM303
       **DOMAIN** : UI/UX DESIGN 
@@ -36,7 +34,7 @@ This redesigned homepage reflects modern design trends, accessibility principles
 
 # OUTPUT : 
 
-          ![Image](https://github.com/user-attachments/assets/76443a6a-699e-41f2-955e-c1a67d70c339)
+ ![Image](https://github.com/user-attachments/assets/76443a6a-699e-41f2-955e-c1a67d70c339)
 
 
 
