@@ -33,3 +33,14 @@ Lastly, I kept the large burger image to maintain Zomato’s original essence, b
 
 This redesigned homepage reflects modern design trends, accessibility principles, and emotional engagement. It was created using Figma, and before-and-after comparisons show an improvement in hierarchy, engagement, and user flow. This project not only allowed me to practice UI design skills but also taught me how to blend user-centered design with visual storytelling, making it an invaluable part of my Codtech internship journey.
 
+
+# OUTPUT : 
+
+          ![Image](https://github.com/user-attachments/assets/76443a6a-699e-41f2-955e-c1a67d70c339)
+
+
+
+
+
+
+          
